@@ -35,7 +35,7 @@ interface = gr.Interface(
     ],
     outputs=gr.Textbox(label="Assessment Result"),
     title="Diabetes Prediction System",
-    description="Enter the medical details to predict diabetes risk using a Decision Tree model.",
+    description="Enter the medical details to predict diabetes risk using a Decision Tree model.\n Parveen :- 252152",
 )
 
 
